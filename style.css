@@ -70,7 +70,7 @@ body{
 
 @media (max-width: 510px) and (min-width: 230px){
  #container > q{
-  font-size: 20px;
+  font-size: 35px;
   font-family:Georgia, 'Times New Roman', Times, serif;
   font-weight: bold;
  }
@@ -99,7 +99,7 @@ body{
 
 @media (max-width: 280px){
  #container > q{
-  font-size: 17px;
+  font-size: 28px;
   font-family:Georgia, 'Times New Roman', Times, serif;
   font-weight: bold;
  }
